@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+@font-face {
+    font-family: FiraGO-SemiBold;
+    src: url(../fonts/FiraGO-SemiBold.ttf);
+}
+@font-face {
+    font-family: FiraGO-Regular;
+    src: url(../fonts/FiraGO-Regular.ttf);
+
+}
+body{
+    background-color: #000000;
+}
+header{
+    border-bottom: 1px;
+    width: 100%;
+    height: 100px;
+    background-color: #000000;
+    
+    border-color: #C3C3C3;
+}
+header h1{
+    margin: 38px 640px 38px 90px;
+    color: #E7E7E7;
+    font-family: FiraGO-SemiBold;
+    float: left;
+}
+header ul li a{
+    color: #E7E7E7;
+    float: left;
+    font-family: FiraGO-Regular;
+    font-size: 16px;
+    margin-right: 20px;
+    margin-top: 42px;
+}
+.werili{
+    background-color: black;
+    width: 1310px;
+    height: 154px;
+    margin: 0 auto;
+    /* padding: auto; */
+}
+body h2{
+    color: #E7E7E7;
+    font-family: FiraGO-Regular;
+    font-size: 128px;
+    /* margin: auto; */
+   letter-spacing: 128px;
+   margin: 20px auto;
+}
+.dro{
+    width: 33.33%;
+    height: 238px;
+    background-color: #000000;
+    color: #E7E7E7;
+    font-family: FiraGO-Regular;
+    padding-left: 90px;
+    float: left;
+    margin-top: 178px;
+}
+.tarigi{
+    width: 33.33%;
+    height: 238px;
+    background-color: #000000;
+    color: #E7E7E7;
+    font-family: FiraGO-Regular;
+    padding-left: 90px;
+    float: left;
+    margin-top: 178px;
+}
+.text{
+    width: 33.33%;
+    height: 238px;
+    background-color: #000000;
+    color: #E7E7E7;
+    font-family: FiraGO-Regular;
+    padding-left: 20px; 
+    float: left;
+    margin-top: 178px;
+}
+.xazi{
+    width: 100%;
+    height: 1px;
+    background-color: #C3C3C3;
+}
+article{
+    width: 428px;
+    height: 690px;
+    margin-left: 20px;
+    background-color: black;
+    float: left;
+}
+.konverti img{
+    width: 100%;
+    height: 628px;
+    overflow: hidden;
+}
+article p{
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-family: FiraGO-Regular;
+    /* color: #FFFFFF; */
+}
+article a{
+    color: #FFFFFF;
+}
+footer{
+    border-top: 1px;
+    width: 100%;
+    height: 200px;
+    padding-top: 1000px;
+}
+
